@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Desfrute a sua Tv, emocione-se",
+      "subTitle": "Assista filmes e séries, na smart TVs, no Site, ou no dispositivo Android, e iOS.",
+      "image": "/images/misc/afronetfilmes-fundo.jpg",
+      "alt": "AfronetFilmes Plataforma Africana",
+      "direction": "TV"
+    },
+    {
+      "id": 2,
+      "title": "Baixe o App e assista onde e quando quiser",
+      "subTitle": "Salve seus dados e assista todos os seus favoritos offline.",
+      "image": "/images/misc/home-mobile.jpg",
+      "alt": "Assista no Telefone móvel",
+      "direction": "Filmes"
+    },
+    {
+      "id": 3,
+      "title": "Acesso ilimitado, para toda a família",
+      "subTitle": "Transmição de filmes e programas de TV ilimitados em seu telefone móvel, tablet, laptop e TV sem pagar mais.",
+      "image": "/images/misc/home-imac.jpg",
+      "alt": "Os grandes sucessos e populares na AfronetFilmes",
+      "direction": "Séries"
+    }
+  ]
+  
